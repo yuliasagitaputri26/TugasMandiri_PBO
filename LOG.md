@@ -2,6 +2,10 @@
 ## [1.0.0] - 2025-03-08
 ### Ditambahkan
 - Fitur login pengguna
-- Sistem validasi form
-### Diperbaiki
-- Bug pada halaman registrasi
+program ini kita dapat 
+Membuat (Menambah Data) 
+Baca (Menampilkan Data)
+Update (Mengubah Data)
+Hapus (Menghapus Data)
+
+
