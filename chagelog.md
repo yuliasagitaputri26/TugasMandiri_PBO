@@ -1,7 +1,6 @@
 # Changelog
 ## [1.0.0] - 2025-03-08
-### Ditambahkan
-- Fitur login pengguna
+### Penggunaan CRUD
 program ini kita dapat 
 Membuat (Menambah Data) 
 Baca (Menampilkan Data)
