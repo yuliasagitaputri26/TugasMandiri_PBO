@@ -6,7 +6,7 @@ import java.util.List;
 
 public class database {//tiga fiil privat
     private ArrayList<mahasiswa> data = new ArrayList<>(); //dari data di simpan ke file pake perintah seve
-    private String filenama = "src/yulia.csv";
+    private String filenama = "src/data.csv";
     private Path path = Path.of(filenama);
 
     public database() {
